@@ -57,8 +57,8 @@
 
                 <div class="card-body p-md-5 text-black">
                   <img src="<c:url value='/template/media/images.png' />" alt="Murach Logo" width="80" height="80" style="margin: 0px;">
-                  <h3 style="margin-top: 10px; color:  teal">Registration form</h3>
-                  <p>If you have a moment, we'd appreciate it if you would fill out this survey.</p>
+                  <h3 style="margin-top: 10px; color:  teal">Java Mail</h3>
+                  <p>This project is used to test java email sending functionality.</p>
                   <h2 style="margin-top: 10px; color:  teal">Your infomation</h2>
                   <div class="row">
                     <div class=" mb-4">

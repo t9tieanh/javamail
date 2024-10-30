@@ -45,7 +45,7 @@ public class UserModel {
         this.id = id;
     }
     public String getEmailContent () {
-        return String.format("Xin chào %s %s\n Đây là email xác nhận việc bạn đã nhấn đăng ký ở email chúng tôi!"
+        return String.format("Xin chào %s %s\n Đây là email xác nhận việc bạn đã nhấn đăng ký ở trang web https://t9tieanh.github.io/tieanh19-infomation chúng tôi!"
                 , firstName, lastName);
     }
     public String getEmailTitle () {
